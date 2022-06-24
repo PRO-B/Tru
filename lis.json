@@ -23,51 +23,21 @@
  "Castom Dialog" : "Text AND Img " , 
   
   
-"" : "" ,
+"N_ADS" : "Name Admin" ,
   
-"" : "" ,
+"TIT_ADS" : "Tozihat" ,
   
-"" : "" ,
+"CH_ADS" : "Text Chanell And PV Admin" ,
   
-"" : "" ,
   
-"" : "" ,
   
-"" : "" ,
   
-"" : "" ,
   
-"" : "" ,
+"LOG_ADS" : "Profile Admin" ,
   
-"" : "" ,
+"IMG_TICK" : "Photo Tick" ,
   
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" ,
-  
-"" : "" 
+"IMG_CH_ADS" : "Logo Chanells" 
   
   
 }
